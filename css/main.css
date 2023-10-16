@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font: 20px Arial, sans-serif;
+    padding: 10px;
+    background-color: rgb(146, 197, 214);
+}
+
+h1 {
+    color: dark rgb(111, 0, 111)
+    font-varient small-caps;
+    background-color: rgb(202, 146, 56);
+}
+
+h1 {
+    color: dark rgb(22, 0, 162)
+    font-varient small-caps;
+    background-color: rgb(202, 146, 56);
+}
+
+main {
+    height: 70vh;
+    background-color: yellow;
+    width: 45%;
+    height: 60%;
+    margin: 0 auto;
+}
+
+.mainimg {
+    border: 7 px solid green
+    width 90%;
+    height: 80%;
+}
+
+img  {
+    float: right;
+}
+
+img {
+    float: left;
+}
+
